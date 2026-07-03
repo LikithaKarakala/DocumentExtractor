@@ -1,0 +1,95 @@
+"Publication
+/Year",Title,Methodology,Features,Limitations
+2014(IEEE),"Raspberry Pi based
+Interactive Home
+Automation
+System through E-
+mail[1]","This paper presents
+a model that is built
+using Raspberry Pi."," Model controlled using
+python programming
+language.
+ Notifies the user
+through Email about the
+status of LED."," Temperature monitoring
+and fire alert system is
+not implemented.
+ No proper user
+interactive system(app)
+is present.
+ It can't be accessed from
+a long distance.
+ Expensive model."
+2015(IJSER),"Design of a Home
+Automation
+System Using
+Arduino[2]","It shows a system
+built using Arduino
+WiFi shield module,
+Bluetooth, Arduino
+Mega and Web-
+Application."," WiFi enabled system.
+ Security alerting system.
+ Web-Application used
+as an interface for
+displaying gas detection,
+weather."," Voice- enabled system
+is not available.
+ Does not include AI
+Technology for
+performing various
+tasks."
+2018(IEEE),"Design and
+implementation of
+IOT based
+automation for
+smart home[3]","This paper shows a
+system built using
+Esp 8266 WiFi
+module, Arduino
+Mega and virtuino
+app."," WiFi enabled system.
+ Home appliance app.
+which controls many
+devices connected.
+ Security alerting system."," Smart voice assistant is
+absent from the app.
+ No fire alert system is
+present."
+2019(IEEE),"Smart Energy
+Efficient Home
+Automation
+System Using
+IoT[4]","Here the paper
+presents a model
+built using
+Esp 8266, Adafruit,
+IFTTT."," Home appliances are
+controlled through
+IFTTT and Adafruit."," The AI assistant app is
+not there to control
+home appliances.
+ Temperature monitoring
+and fire alert system is
+not implemented."
+2021,"Smart Home
+Automation using
+AI assistant and
+IoT",Proposed Approach," ZOYA, the AI Assistant
+app helps to ease the
+work of user by opening
+various apps and also
+control different
+electronic appliances.
+ The model has
+temperature, humidity
+and fire security alarm.
+ Long distance
+communication is
+possible via ZOYA."," The brightness of the
+light cannot be
+controlled.
+ ZOYA does not have
+access to all the apps, it
+can only open limited
+applications."
